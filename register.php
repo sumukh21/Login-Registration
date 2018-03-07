@@ -2,6 +2,7 @@
 	require 'dbconfig/config.php';
 ?>
 <!DOCTYPE html>
+<!--Registration Page-->
 <html>
 <head>
 <title>Registration Page</title>

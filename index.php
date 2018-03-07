@@ -3,6 +3,7 @@
 	require 'dbconfig/config.php';
 ?>
 <!DOCTYPE html>
+<!--LoginPage-->
 <html>
 <head>
 <title>Login Page</title>
